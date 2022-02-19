@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "24beb84fa85e21f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "786cd821a70b2fee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "javascript/基础语法.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2186b20a582f83d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8988a4a0c3baa119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a8a52ae141621c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2fdaaf241e1e801",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d9eba32f9a9c961f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f885b5253772c938",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a358c664ca01424",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "javascript/基础语法.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "553f2689cd41c23c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "javascript/基础语法.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "786cd821a70b2fee",
+  "lastOpenFiles": [
+    "javascript/基础语法.md",
+    "未命名.md",
+    "README.md",
+    "go基础/基础知识.md",
+    "202201241953.md",
+    "-/测试.md"
+  ]
+}
