@@ -6,5 +6,7 @@
     "en-US"
   ],
   "showUnsupportedFiles": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "spellcheck": true
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "javascript/基础语法.md",
+            "file": "typescript/泛型.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript/基础语法.md",
+                "file": "typescript/泛型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript/基础语法.md"
+                "file": "typescript/泛型.md"
               }
+            }
+          },
+          {
+            "id": "1597c73d82b420b2",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
             }
           }
         ]
@@ -99,11 +107,15 @@
   },
   "active": "786cd821a70b2fee",
   "lastOpenFiles": [
-    "javascript/基础语法.md",
+    "typescript/泛型.md",
+    "typescript/类.md",
+    "typescript/函数.md",
+    "typescript/接口.md",
+    "typescript/基础数据类型.md",
+    "vue学习/声明式渲染.md",
     "未命名.md",
+    "javascript/基础语法.md",
     "README.md",
-    "go基础/基础知识.md",
-    "202201241953.md",
-    "-/测试.md"
+    "go基础/基础知识.md"
   ]
 }

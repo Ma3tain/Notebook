@@ -1,0 +1,14 @@
+{
+  "pinned": [
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-link",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-code",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-source"
+  ]
+}
